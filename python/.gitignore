@@ -1,6 +1,11 @@
+# Intellij
+.idea
+
 # Anaconda env
 **/scxml_build
 
+# SCXML
+**/scxmlgen/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
